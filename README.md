@@ -15,7 +15,7 @@ This project explores the top 10,000 Spotify songs from 1960 to the present, ana
 - Tested features such as "Danceability," "Popularity," and "Energy" for normality.
 
 #### Correlation Analysis
-- **Danceability vs. Energy**:
+- **Danceability vs. Energy**.
 
 #### ANOVA Test
 - Analyzed song popularity differences across decades.
